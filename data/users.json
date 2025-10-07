@@ -1,0 +1,30 @@
+{
+    "users": [
+            {
+            "id": 1,
+            "name": "John Doe",
+            "surname": "Doe",
+            "email":    "",
+            "issuedBooks": [1, 2],
+            "issueDates": ["2023-10-01", "2023-10-05"],
+            "submissionDates": ["2023-10-15", "2023-10-20"] ,
+            "subscriptions": ["standard", "premium"],
+            "subscriptionDates": ["2023-10-01", "2023-10-05"]
+            },
+            {
+            "id" :2,
+            "name": "Jane Smith",   
+            "surname": "Smith",
+            "email": "",
+            "issuedBooks": [3],
+            "issueDates": ["2023-10-03"],
+            "submissionDates": ["2023-10-18"],
+            "subscriptions": ["standard"],
+            "subscriptionDates": ["2023-10-03"] ,
+            "issuedBooks": [3],
+            "issueDates": ["2023-10-03"],
+            "submissionDates": ["2023-10-18"],
+            "subscriptions": ["standard"]
+            }
+        ]
+}
